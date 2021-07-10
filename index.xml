@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site – Documentation</title>
-    <link>http://example.org/</link>
-    <description>Recent content in Documentation on My New Hugo Site</description>
+    <title>China Systems – Documentation</title>
+    <link>http://DOCS.github.io/</link>
+    <description>Recent content in Documentation on China Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://DOCS.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
       
