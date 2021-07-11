@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.org/cs_documents/ce/cev336/cev336_archiving_and_recovery/</loc>
   </url>
   
@@ -24,17 +25,37 @@
   
   <url>
     <loc>http://example.org/</loc>
+=======
+    <loc>http://DOCS.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/cs_documents/ce/cev336/</loc>
+    <loc>http://DOCS.github.io/cs_documents/ce/cev336/cev336-data-objects/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/cs_documents/</loc>
+    <loc>http://DOCS.github.io/cs_documents/ce/cev336/cev336-faqs/</loc>
   </url>
   
   <url>
+    <loc>http://DOCS.github.io/cs_documents/ce/cev336/cev336_reports/</loc>
+  </url>
+  
+  <url>
+    <loc>http://DOCS.github.io/cs_documents/ce/cev336/cev336_system_administration_functions/</loc>
+>>>>>>> 910d87bb157c94e7fd6ed5a266c7f849e488dba6
+  </url>
+  
+  <url>
+    <loc>http://DOCS.github.io/cs_documents/ce/cev336/</loc>
+  </url>
+  
+  <url>
+    <loc>http://DOCS.github.io/cs_documents/</loc>
+  </url>
+  
+  <url>
+<<<<<<< HEAD
     <loc>http://example.org/cs_documents/ce/</loc>
   </url>
   
@@ -44,22 +65,33 @@
   
   <url>
     <loc>http://example.org/cs_documents/csx-version-4/</loc>
+=======
+    <loc>http://DOCS.github.io/cs_documents/csx-version-3/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/cs_documents/ee/</loc>
+    <loc>http://DOCS.github.io/cs_documents/csx-version-4/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://DOCS.github.io/cs_documents/ce/</loc>
+>>>>>>> 910d87bb157c94e7fd6ed5a266c7f849e488dba6
   </url>
   
   <url>
-    <loc>http://example.org/search/</loc>
+    <loc>http://DOCS.github.io/cs_documents/ee/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://DOCS.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://DOCS.github.io/search/</loc>
+  </url>
+  
+  <url>
+    <loc>http://DOCS.github.io/tags/</loc>
   </url>
   
 </urlset>
